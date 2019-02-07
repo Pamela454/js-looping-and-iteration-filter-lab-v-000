@@ -1,4 +1,4 @@
 // Code your solution in this file
 function findMatching(drivers, string) {
-  drivers.filter(driver => string)
+  drivers.filter(driver => driver === string)
 }
